@@ -1,0 +1,8 @@
+{
+  // Solution-level config referencing app and node sub-projects
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
